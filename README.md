@@ -71,5 +71,5 @@
 ------
 
 **维护机构**：
- [LOGO] 应急救援人工智能联合实验室
+School of Emergency technology and management, North China Institute of Science \& Technology
 
