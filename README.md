@@ -71,5 +71,5 @@
 ------
 
 **维护机构**：
-School of Emergency technology and management, North China Institute of Science \& Technology
+华北科技学院应急技术与管理学院
 
